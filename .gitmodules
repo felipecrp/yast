@@ -1,0 +1,4 @@
+[submodule "yast-web"]
+	path = yast-web
+	url = git@github.com:felipecrp/yast-web.git
+	branch = main
